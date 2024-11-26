@@ -151,7 +151,7 @@ vit.html
 </html>
 ```
 ## OUTPUT
-![alt text](<home/homeapp/static/vellore map.png>)
+![alt text](map.png)
 ![alt text](<golden temple.png>)
 ![alt text](katpadi.png)
 ![alt text](palamathi.png)
